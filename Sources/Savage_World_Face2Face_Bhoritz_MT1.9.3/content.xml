@@ -1,0 +1,3255 @@
+<net.rptools.maptool.util.PersistenceUtil_-PersistedCampaign>
+  <campaign>
+    <id>
+      <baGUID>wKgCB6FwzxQLAAAAAIgAAQ==</baGUID>
+    </id>
+    <zones/>
+    <name>Savage_World_Face2Face_Bhoritz_MT1.9.3</name>
+    <campaignProperties>
+      <tokenTypeMap>
+        <entry>
+          <string></string>
+          <list/>
+        </entry>
+        <entry>
+          <string>Basic</string>
+          <list>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Nom</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>WildCard</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Perso</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>PouvoirArcane</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>PtsDestin</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>PtsPouvoir</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>PtsPouvoirMax</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Blessures</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Fatigue</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Eclairage</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Zone</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Agil</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>4</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Intell</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>4</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Vol</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>4</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>For</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>4</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>End</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>4</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>EndBonus</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Protete</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Protorse</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ProBD</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ProBG</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ProJD</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ProJG</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Bcl</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Mov</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>6</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Course</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>6</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Char</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Boat</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Climb</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Driv</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Fight</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>FightBonus</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Gambl</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Guts</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Heal</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Intimid</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Invest</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Knowl</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>none</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Lock</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Notice</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Persuade</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Pilot</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Repair</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Ride</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Shoot</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Stealth</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Street</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Survive</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Swim</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Taunt</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Throw</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Track</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>FightPar</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: eval(string(Fight))]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Par</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>{floor(FightPar / 2)+2}</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>EndResist</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: eval(string(End))]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Resist</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>{floor(EndResist / 2)+2+Protorse}</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Type</name>
+              <highPriority>true</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( WildCard&gt;0, &quot; WILD CARD &quot;, &quot;&quot;)][r: if( Perso&gt;0, &quot; PC &quot;, &quot; NPC&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Points</name>
+              <highPriority>true</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( WildCard&gt;0, &quot; Bennies &quot; + PtsDestin, &quot;&quot;)] [r: if( PouvoirArcane&gt;0, &quot; Power &quot; + PtsPouvoir , &quot;&quot;)][r: if( PouvoirArcane&gt;0, &quot;/&quot; + PtsPouvoirMax , &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Detail Malus</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if (WildCard&gt;0, &quot; Wounds -&quot; + Blessures, &quot;&quot;)][r: &quot; Fatigue -&quot; + Fatigue, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Malus</name>
+              <highPriority>true</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>-{Blessures + Fatigue}</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Etat</name>
+              <highPriority>true</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[h: stateList = getTokenStates( &quot;json&quot;, &quot;Condition&quot;)][h:sList = &quot;&quot;][h, foreach(item, stateList, &quot;&quot;), if(getState(item)): sList=listAppend(sList,item)][r:sList]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Attributs</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>AG D{Agil}  SM D{Intell}  SP D{Vol}  ST D{For}  VI D{End}</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Caractsec</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>MOV {Mov} (+D{Course}) PAR {Par+Bcl} TOU {Resist} CHR {Char}</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>TalentsAg</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Boat&gt;0, &quot; Boating D&quot; + Boat, &quot;&quot;)][r: if( Driv&gt;0, &quot; Driving D&quot; + Driv, &quot;&quot;)][r: if( FightPar&gt;0, &quot; Combat D&quot; + Fight, &quot;&quot;)][r: if( Lock&gt;0, &quot; Lockpicking D&quot; + Lock, &quot;&quot;)][r: if( Pilot&gt;0, &quot; Piloting D&quot; + Pilot, &quot;&quot;)][r: if( Ride&gt;0, &quot; Riding D&quot; + Ride, &quot;&quot;)][r: if( Shoot&gt;0, &quot; Shooting D&quot; + Shoot, &quot;&quot;)][r: if( Stealth&gt;0, &quot; Stealth D&quot; + Stealth, &quot;&quot;)][r: if( Swim&gt;0, &quot; Swimming D&quot; + Swim, &quot;&quot;)][r: if( Throw&gt;0, &quot; Throwing D&quot; + Throw, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>TalentsStr</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Climb&gt;0, &quot; Climbing D&quot; + Climb, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>TalentsInt</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Gambl&gt;0, &quot; Gambling D&quot; + Gambl, &quot;&quot;)][r: if( Heal&gt;0, &quot; Healing D&quot; + Heal, &quot;&quot;)][r: if( Invest&gt;0, &quot; Investigation D&quot; + Invest, &quot;&quot;)][r: if( Knowl != &quot;&quot;, &quot; Knowledge: &quot; + Knowl, &quot;none&quot;)][r: if( Notice&gt;0, &quot; Notice D&quot; + Notice, &quot;&quot;)][r: if( Repair&gt;0, &quot; Repair D&quot; + Repair, &quot;&quot;)][r: if( Street&gt;0, &quot; Streetwise D&quot; + Street, &quot;&quot;)][r: if( Survive&gt;0, &quot; Survival D&quot; + Survive, &quot;&quot;)][r: if( Taunt&gt;0, &quot; Taunt D&quot; + Taunt, &quot;&quot;)][r: if( Track&gt;0, &quot; Tracking D&quot; + Track, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>TalentsVol</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Guts&gt;0, &quot; Guts D&quot; + Guts, &quot;&quot;)][r: if( Intimid&gt;0, &quot; Intimidation D&quot; + Intimid, &quot;&quot;)][r: if( Persuade&gt;0, &quot; Persuasion D&quot; + Persuade, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Handicaps</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( AllThumbs&gt;0, &quot; All Thumbs&quot;, &quot;&quot;)][r: if( Anemic&gt;0, &quot; Anemic&quot;, &quot;&quot;)][r: if( Arrogant&gt;0, &quot; Arrogant&quot;, &quot;&quot;)][r: if( BadEyes&gt;0, &quot; Bad Eyes&quot;, &quot;&quot;)][r: if( BadLuck&gt;0, &quot; Bad Luck&quot;, &quot;&quot;)][r: if( BigMouth&gt;0, &quot; Big Mouth&quot;, &quot;&quot;)][r: if( Blind&gt;0, &quot; Blind&quot;, &quot;&quot;)][r: if( Bloodthirsty&gt;0, &quot; Bloodthirsty&quot;, &quot;&quot;)][r: if( Cautious&gt;0, &quot; Cautious&quot;, &quot;&quot;)][r: if( Clueless&gt;0, &quot; Clueless&quot;, &quot;&quot;)][r: if( CodeofHonor&gt;0, &quot; Code of Honor&quot;, &quot;&quot;)][r: if( Curious&gt;0, &quot; Curious&quot;, &quot;&quot;)][r: if( DeathWish&gt;0, &quot; Death Wish&quot;, &quot;&quot;)][r: if( Delusional&gt;0, &quot; Delusional&quot;, &quot;&quot;)][r: if( DoubtingThomas&gt;0, &quot; Doubting Thomas&quot;, &quot;&quot;)][r: if( Elderly&gt;0, &quot; Elderly&quot;, &quot;&quot;)][r: if( Enemy&gt;0, &quot; Enemy&quot;, &quot;&quot;)][r: if( Greedy&gt;0, &quot; Greedy&quot;, &quot;&quot;)][r: if( Habit&gt;0, &quot; Habit&quot;, &quot;&quot;)][r: if( HardofHearing&gt;0, &quot; Hard of Hearing&quot;, &quot;&quot;)][r: if( Heroic&gt;0, &quot; Heroic&quot;, &quot;&quot;)][r: if( Illiterate&gt;0, &quot; Illiterate&quot;, &quot;&quot;)][r: if( Lame&gt;0, &quot; Lame&quot;, &quot;&quot;)][r: if( Loyal&gt;0, &quot; Loyal&quot;, &quot;&quot;)][r: if( Mean&gt;0, &quot; Mean&quot;, &quot;&quot;)][r: if( Obese&gt;0, &quot; Obese&quot;, &quot;&quot;)][r: if( OneArm&gt;0, &quot; One Arm&quot;, &quot;&quot;)][r: if( OneEye&gt;0, &quot; One Eye&quot;, &quot;&quot;)][r: if( OneLeg&gt;0, &quot; One Leg&quot;, &quot;&quot;)][r: if( Outsider&gt;0, &quot; Outsider&quot;, &quot;&quot;)][r: if( Overconfident&gt;0, &quot; Overconfident&quot;, &quot;&quot;)][r: if( Pacifist&gt;0, &quot; Pacifist&quot;, &quot;&quot;)][r: if( Phobia&gt;0, &quot; Phobia&quot;, &quot;&quot;)][r: if( Poverty&gt;0, &quot; Poverty&quot;, &quot;&quot;)][r: if( Quirk&gt;0, &quot; Quirk&quot;, &quot;&quot;)][r: if( Small&gt;0, &quot; Small&quot;, &quot;&quot;)][r: if( Stubborn&gt;0, &quot; Stubborn&quot;, &quot;&quot;)][r: if( Ugly&gt;0, &quot; Ugly&quot;, &quot;&quot;)][r: if( Vengeful&gt;0, &quot; Vengeful&quot;, &quot;&quot;)][r: if( Vow&gt;0, &quot; Vow&quot;, &quot;&quot;)][r: if( Wanted&gt;0, &quot; Wanted&quot;, &quot;&quot;)][r: if( Yellow&gt;0, &quot; Yellow&quot;, &quot;&quot;)][r: if( Young&gt;0, &quot; Young&quot;, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>AllThumbs</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Anemic</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Arrogant</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>BadEyes</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>BadLuck</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>BigMouth</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Blind</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Bloodthirsty</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Cautious</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Clueless</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>CodeofHonor</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Curious</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>DeathWish</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Delusional</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>DoubtingThomas</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Elderly</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Enemy</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Greedy</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Habit</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>HardofHearing</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Heroic</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Illiterate</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Lame</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Loyal</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Mean</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Obese</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>OneArm</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>OneEye</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>OneLeg</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Outsider</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Overconfident</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Pacifist</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Phobia</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Poverty</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Quirk</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Small</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Stubborn</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Ugly</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Vengeful</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Vow</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Wanted</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Yellow</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Young</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Avantages</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Ace&gt;0, &quot; Ace&quot;, &quot;&quot;)][r: if( Acrobat&gt;0, &quot; Acrobat&quot;, &quot;&quot;)][r: if( Alertness&gt;0, &quot; Alertness&quot;, &quot;&quot;)][r: if( Ambidextrous&gt;0, &quot; Ambidextrous&quot;, &quot;&quot;)][r: if( ArcaneBackground&gt;0, &quot; Arcane Background&quot;, &quot;&quot;)][r: if( ArcaneResistance&gt;0, &quot; Arcane resistance&quot;, &quot;&quot;)][r: if( ImpArcaneRes&gt;0, &quot; Improved Arcane resistance&quot;, &quot;&quot;)][r: if( Attractive&gt;0, &quot; Attractive&quot;, &quot;&quot;)][r: if( VeryAttractive&gt;0, &quot; Very Attractive&quot;, &quot;&quot;)][r: if( BeastBond&gt;0, &quot; Beast Bond&quot;, &quot;&quot;)][r: if( BeastMaster&gt;0, &quot; Beast Master&quot;, &quot;&quot;)][r: if( Berserk&gt;0, &quot; Berserk&quot;, &quot;&quot;)][r: if( Block&gt;0, &quot; Block&quot;, &quot;&quot;)][r: if( ImprovedBlock&gt;0, &quot; Improved Block&quot;, &quot;&quot;)][r: if( Brawny&gt;0, &quot; Brawny&quot;, &quot;&quot;)][r: if( Champion&gt;0, &quot; Champion&quot;, &quot;&quot;)][r: if( Charismatic&gt;0, &quot; Charismatic&quot;, &quot;&quot;)][r: if( CombatReflexes&gt;0, &quot; Combat Reflexes&quot;, &quot;&quot;)][r: if( Command&gt;0, &quot; Command&quot;, &quot;&quot;)][r: if( CommonBond&gt;0, &quot; Common Bond&quot;, &quot;&quot;)][r: if( Connections&gt;0, &quot; Connections&quot;, &quot;&quot;)][r: if( DangerSense&gt;0, &quot; Danger Sense&quot;, &quot;&quot;)][r: if( DeadShot&gt;0, &quot; Dead Shot&quot;, &quot;&quot;)][r: if( Dodge&gt;0, &quot; Dodge&quot;, &quot;&quot;)][r: if( ImprovedDodge&gt;0, &quot; Improved Dodge&quot;, &quot;&quot;)][r: if( FastHealer&gt;0, &quot; Fast Healer&quot;, &quot;&quot;)][r: if( Fervor&gt;0, &quot; Fervor&quot;, &quot;&quot;)][r: if( FirstStrike&gt;0, &quot; First Strike&quot;, &quot;&quot;)][r: if( ImpFirstStrike&gt;0, &quot; Improved First Strike&quot;, &quot;&quot;)][r: if( FleetFooted&gt;0, &quot; Fleet Footed&quot;, &quot;&quot;)][r: if( Florentine&gt;0, &quot; Florentine&quot;, &quot;&quot;)][r: if( Followers&gt;0, &quot; Followers&quot;, &quot;&quot;)][r: if( Frenzy&gt;0, &quot; Frenzy&quot;, &quot;&quot;)][r: if( ImpFrenzy&gt;0, &quot; Improved Frenzy&quot;, &quot;&quot;)][r: if( Gadgeteer&gt;0, &quot; Gadgeteer&quot;, &quot;&quot;)][r: if( GiantKiller&gt;0, &quot; Giant Killer&quot;, &quot;&quot;)][r: if( HardtoKill&gt;0, &quot; Hard to Kill&quot;, &quot;&quot;)][r: if( HardertoKill&gt;0, &quot; Harder to Kill&quot;, &quot;&quot;)][r: if( Healer&gt;0, &quot; Healer&quot;, &quot;&quot;)][r: if( HoldtheLine&gt;0, &quot; Hold the Line&quot;, &quot;&quot;)][r: if( HolyWarrior&gt;0, &quot; Holy Warrior&quot;, &quot;&quot;)][r: if( unHolyWarrior&gt;0, &quot; Unholy Warrior&quot;, &quot;&quot;)][r: if( Inspire&gt;0, &quot; Inspire&quot;, &quot;&quot;)][r: if( Investigator&gt;0, &quot; Investigator&quot;, &quot;&quot;)][r: if( JackofallTrades&gt;0, &quot; Jack of All Trades&quot;, &quot;&quot;)][r: if( LevelHeaded&gt;0, &quot; Level Headed&quot;, &quot;&quot;)][r: if( ImpLevelHeaded&gt;0, &quot; Improved Level Headed&quot;, &quot;&quot;)][r: if( Luck&gt;0, &quot; Luck&quot;, &quot;&quot;)][r: if( GreatLuck&gt;0, &quot; Great Luck&quot;, &quot;&quot;)][r: if( Marksman&gt;0, &quot; Marksman&quot;, &quot;&quot;)][r: if( McGyver&gt;0, &quot; McGyver&quot;, &quot;&quot;)][r: if( Mentalist&gt;0, &quot; Mentalist&quot;, &quot;&quot;)][r: if( MightyBlow&gt;0, &quot; Mighty Blow&quot;, &quot;&quot;)][r: if( MrFixIt&gt;0, &quot; Mr Fix It&quot;, &quot;&quot;)][r: if( NaturalLeader&gt;0, &quot; Natural Leader&quot;, &quot;&quot;)][r: if( NervesofSteel&gt;0, &quot; Nerves of Steel&quot;, &quot;&quot;)][r: if( ImpNervesofSteel&gt;0, &quot; Improved Nerves of Steel&quot;, &quot;&quot;)][r: if( NewPower&gt;0, &quot; New Powers:&quot; + NewPower, &quot;&quot;)][r: if( Noble&gt;0, &quot; Noble&quot;, &quot;&quot;)][r: if( NoMercy&gt;0, &quot; No Mercy&quot;, &quot;&quot;)][r: if( PowerPoints&gt;0, &quot; Power Points&quot;, &quot;&quot;)][r: if( PowerSurge&gt;0, &quot; Power Surge&quot;, &quot;&quot;)][r: if( Professional&gt;0, &quot; Professionall&quot;, &quot;&quot;)][r: if( Expert&gt;0, &quot; Expert&quot;, &quot;&quot;)][r: if( Master&gt;0, &quot; Master&quot;, &quot;&quot;)][r: if( Quick&gt;0, &quot; Quick&quot;, &quot;&quot;)][r: if( QuickDraw&gt;0, &quot; Quick Draw&quot;, &quot;&quot;)][r: if( RapidRecharge&gt;0, &quot; Rapid Recharge&quot;, &quot;&quot;)][r: if( ImpRapidRecharge&gt;0, &quot; Improved Rapid Recharge&quot;, &quot;&quot;)][r: if( Rich&gt;0, &quot; Rich&quot;, &quot;&quot;)][r: if( FilthyRich&gt;0, &quot; Filthy Rich&quot;, &quot;&quot;)][r: if( RockandRoll&gt;0, &quot; Rock and Roll&quot;, &quot;&quot;)][r: if( Scholar&gt;0, &quot; Scholar&quot;, &quot;&quot;)][r: if( Sidekick&gt;0, &quot; SideKick&quot;, &quot;&quot;)][r: if( SoulDrain&gt;0, &quot; Soul Drain&quot;, &quot;&quot;)][r: if( SteadyHands&gt;0, &quot; Steady Hands&quot;, &quot;&quot;)][r: if( Sweep&gt;0, &quot; Sweep&quot;, &quot;&quot;)][r: if( ImpSweep&gt;0, &quot; Improved Sweep&quot;, &quot;&quot;)][r: if( StrongWilled&gt;0, &quot; Strong Willed&quot;, &quot;&quot;)][r: if( Thief&gt;0, &quot; Thief&quot;, &quot;&quot;)][r: if( ToughasNails&gt;0, &quot; Though as Nails&quot;, &quot;&quot;)][r: if( ImpToughasNails&gt;0, &quot; Improved Though as Nails&quot;, &quot;&quot;)][r: if( TrademarkWeapon&gt;0, &quot; Trademark Weapon&quot;, &quot;&quot;)][r: if( ImpTrWeapon&gt;0, &quot; Improved Trademark Weapon&quot;, &quot;&quot;)][r: if( TwoFisted&gt;0, &quot; Two Fisted&quot;, &quot;&quot;)][r: if( WeaponMaster&gt;0, &quot; Weapon Master&quot;, &quot;&quot;)][r: if( MasterofArms&gt;0, &quot; Master of Arms&quot;, &quot;&quot;)][r: if( Wizard&gt;0, &quot; Wizard&quot;, &quot;&quot;)][r: if( Woodsman&gt;0, &quot; Woodsman&quot;, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Ace</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Acrobat</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Alertness</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Ambidextrous</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ArcaneBackground</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ArcaneResistance</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpArcaneRes</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Attractive</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>VeryAttractive</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>BeastBond</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>BeastMaster</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Berserk</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Block</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImprovedBlock</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Brawny</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Champion</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Charismatic</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>CombatReflexes</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Command</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>CommonBond</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Connections</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>DangerSense</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>DeadShot</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Dodge</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImprovedDodge</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>FastHealer</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Fervor</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>FirstStrike</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpFirstStrike</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>FleetFooted</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Florentine</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Followers</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Frenzy</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpFrenzy</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Gadgeteer</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>GiantKiller</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>HardtoKill</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>HardertoKill</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Healer</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>HoldtheLine</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>HolyWarrior</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>unHolyWarrior</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Inspire</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Investigator</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>JackofallTrades</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>LevelHeaded</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpLevelHeaded</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Luck</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>GreatLuck</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Marksman</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>McGyver</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Mentalist</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>MightyBlow</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>MrFixIt</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>NaturalLeader</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>NervesofSteel</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpNervesofSteel</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>NewPower</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Noble</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>NoMercy</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>PowerPoints</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>PowerSurge</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Professional</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Expert</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Master</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Quick</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>QuickDraw</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>RapidRecharge</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpRapidRecharge</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Rich</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>FilthyRich</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>RockandRoll</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Scholar</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Sidekick</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>SoulDrain</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>SteadyHands</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Sweep</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpSweep</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>StrongWilled</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Thief</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ToughasNails</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpToughasNails</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>TrademarkWeapon</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>ImpTrWeapon</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>TwoFisted</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>WeaponMaster</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>MasterofArms</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Wizard</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Woodsman</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Armure</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>TE {Protete}  TO {Protorse}  BD {ProBD}  BG {ProBG}  JD {ProJD}  JG {ProJG}</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Equipement</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Armes</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Potions</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Special</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Brol</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Arme</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Armes!=0, +Armes, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Sets</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Equipement!=0, +Equipement, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Potion</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Potions!=0, +Potions, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Divers</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( Special!=0, +Special, &quot;&quot;)][r: if( Brol!=0, &quot; &quot;+Brol, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwArmure</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwBarriere</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwAmiAnimaux</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwExplosion</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwRayon</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwAugDimTrait</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwEnfouissement</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwSalve</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwDeflexion</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwDetectCacherArcanes</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwDissiper</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwManipElements</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwEmpetrer</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwProtecElements</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwPeur</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwVol</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwSoins</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwSoinsAv</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwInvisibilite</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwLumiere</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwObscurite</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwPantin</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwRapidite</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwGarou</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwEnchantArme</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwParlerLangue</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwVitesse</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwOndeChoc</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwTelekinesie</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwTeleportation</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>pwZombie</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>0</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+            <net.rptools.maptool.model.TokenProperty>
+              <name>Pouvoirs</name>
+              <highPriority>false</highPriority>
+              <ownerOnly>false</ownerOnly>
+              <gmOnly>false</gmOnly>
+              <defaultValue>[r: if( pwArmure&gt;0, &quot; Armor&quot;, &quot;&quot;)] [r: if( pwBarriere&gt;0, &quot; Barrier&quot;, &quot;&quot;)] [r: if( pwAmiAnimaux&gt;0, &quot; Beast Friend&quot;, &quot;&quot;)] [r: if( pwExplosion&gt;0, &quot; Blast&quot;, &quot;&quot;)] [r: if( pwRayon&gt;0, &quot; Bolt&quot;, &quot;&quot;)] [r: if( pwAugDimTrait&gt;0, &quot; Boost/Lower Trait&quot;, &quot;&quot;)] [r: if( pwEnfouissement&gt;0, &quot; Burrow&quot;, &quot;&quot;)] [r: if( pwSalve&gt;0, &quot; Burst&quot;, &quot;&quot;)] [r: if( pwDeflexion&gt;0, &quot; Deflection&quot;, &quot;&quot;)] [r: if( pwDetectCacherArcanes&gt;0, &quot; Detect/Conceal Arcanes&quot;, &quot;&quot;)] [r: if( pwDissiper&gt;0, &quot; Dispel&quot;, &quot;&quot;)] [r: if( pwManipElements&gt;0, &quot; Elemental Manipulation&quot;, &quot;&quot;)] [r: if( pwEmpetrer&gt;0, &quot; Entangle&quot;, &quot;&quot;)] [r: if( pwProtecElements&gt;0, &quot; Elemental Protection&quot;, &quot;&quot;)] [r: if( pwPeur&gt;0, &quot; Fear&quot;, &quot;&quot;)] [r: if( pwVol&gt;0, &quot; Fly&quot;, &quot;&quot;)] [r: if( pwSoins&gt;0, &quot; Healing&quot;, &quot;&quot;)] [r: if( pwSoinsAv&gt;0, &quot; Greater healing&quot;, &quot;&quot;)] [r: if( pwInvisibilite&gt;0, &quot; Invisibility&quot;, &quot;&quot;)] [r: if( pwLumiere&gt;0, &quot; Light&quot;, &quot;&quot;)] [r: if( pwObscurite&gt;0, &quot; Obscure&quot;, &quot;&quot;)] [r: if( pwPantin&gt;0, &quot; Puppet&quot;, &quot;&quot;)] [r: if( pwRapidite&gt;0, &quot; Quickness&quot;, &quot;&quot;)] [r: if( pwGarou&gt;0, &quot; Shape Change&quot;, &quot;&quot;)] [r: if( pwEnchantArme&gt;0, &quot; Smite&quot;, &quot;&quot;)] [r: if( pwParlerLangue&gt;0, &quot; Speak Language&quot;, &quot;&quot;)] [r: if( pwVitesse&gt;0, &quot; Speed&quot;, &quot;&quot;)] [r: if( pwOndeChoc&gt;0, &quot; Stun&quot;, &quot;&quot;)] [r: if( pwTelekinesie&gt;0, &quot; Telekinesis&quot;, &quot;&quot;)] [r: if( pwTeleportation&gt;0, &quot; Teleport&quot;, &quot;&quot;)] [r: if( pwZombie&gt;0, &quot; Zombies&quot;, &quot;&quot;)]</defaultValue>
+            </net.rptools.maptool.model.TokenProperty>
+          </list>
+        </entry>
+      </tokenTypeMap>
+      <remoteRepositoryList>
+        <string>http://rptools.net/image-indexes/gallery.rpax.gz</string>
+        <string>http://RPTroll.com/SpaceNazis/index.gz</string>
+        <string>http://RPTroll.com/TombOfTerrors/index.gz</string>
+        <string>http://www.rptools.net/image-indexes/gallery.rpax.gz</string>
+      </remoteRepositoryList>
+      <lightSourcesMap>
+        <entry>
+          <string>SW</string>
+          <map>
+            <entry>
+              <net.rptools.maptool.model.GUID>
+                <baGUID>wKgCBQkczR7lAAAAAIgAAQ==</baGUID>
+              </net.rptools.maptool.model.GUID>
+              <net.rptools.maptool.model.LightSource>
+                <lightList class="linked-list">
+                  <net.rptools.maptool.model.Light>
+                    <paint class="net.rptools.maptool.model.drawing.DrawableColorPaint">
+                      <color>-256</color>
+                    </paint>
+                    <facingOffset>0.0</facingOffset>
+                    <radius>2.0</radius>
+                    <arcAngle>90.0</arcAngle>
+                    <shape>CIRCLE</shape>
+                    <isGM>false</isGM>
+                    <ownerOnly>false</ownerOnly>
+                  </net.rptools.maptool.model.Light>
+                </lightList>
+                <name>Candle</name>
+                <id reference="../../net.rptools.maptool.model.GUID"/>
+                <type>AURA</type>
+                <lumens>0</lumens>
+                <scaleWithToken>false</scaleWithToken>
+              </net.rptools.maptool.model.LightSource>
+            </entry>
+            <entry>
+              <net.rptools.maptool.model.GUID>
+                <baGUID>wKgCBQkczR7kAAAAAIgAAQ==</baGUID>
+              </net.rptools.maptool.model.GUID>
+              <net.rptools.maptool.model.LightSource>
+                <lightList class="linked-list">
+                  <net.rptools.maptool.model.Light>
+                    <paint class="net.rptools.maptool.model.drawing.DrawableColorPaint">
+                      <color>-256</color>
+                    </paint>
+                    <facingOffset>0.0</facingOffset>
+                    <radius>4.0</radius>
+                    <arcAngle>90.0</arcAngle>
+                    <shape>CIRCLE</shape>
+                    <isGM>false</isGM>
+                    <ownerOnly>false</ownerOnly>
+                  </net.rptools.maptool.model.Light>
+                </lightList>
+                <name>Lamp</name>
+                <id reference="../../net.rptools.maptool.model.GUID"/>
+                <type>AURA</type>
+                <lumens>0</lumens>
+                <scaleWithToken>false</scaleWithToken>
+              </net.rptools.maptool.model.LightSource>
+            </entry>
+            <entry>
+              <net.rptools.maptool.model.GUID>
+                <baGUID>wKgCBQkczR7jAAAAAIgAAQ==</baGUID>
+              </net.rptools.maptool.model.GUID>
+              <net.rptools.maptool.model.LightSource>
+                <lightList class="linked-list">
+                  <net.rptools.maptool.model.Light>
+                    <paint class="net.rptools.maptool.model.drawing.DrawableColorPaint">
+                      <color>-256</color>
+                    </paint>
+                    <facingOffset>0.0</facingOffset>
+                    <radius>4.0</radius>
+                    <arcAngle>90.0</arcAngle>
+                    <shape>CIRCLE</shape>
+                    <isGM>false</isGM>
+                    <ownerOnly>false</ownerOnly>
+                  </net.rptools.maptool.model.Light>
+                </lightList>
+                <name>Torch</name>
+                <id reference="../../net.rptools.maptool.model.GUID"/>
+                <type>AURA</type>
+                <lumens>0</lumens>
+                <scaleWithToken>false</scaleWithToken>
+              </net.rptools.maptool.model.LightSource>
+            </entry>
+          </map>
+        </entry>
+        <entry>
+          <string>Burst</string>
+          <map>
+            <entry>
+              <net.rptools.maptool.model.GUID>
+                <baGUID>wKgCBQkczR7iAAAAAIgAAQ==</baGUID>
+              </net.rptools.maptool.model.GUID>
+              <net.rptools.maptool.model.LightSource>
+                <lightList class="linked-list">
+                  <net.rptools.maptool.model.Light>
+                    <paint class="net.rptools.maptool.model.drawing.DrawableColorPaint">
+                      <color>-65279</color>
+                    </paint>
+                    <facingOffset>0.0</facingOffset>
+                    <radius>1.0</radius>
+                    <arcAngle>90.0</arcAngle>
+                    <shape>CIRCLE</shape>
+                    <isGM>false</isGM>
+                    <ownerOnly>false</ownerOnly>
+                  </net.rptools.maptool.model.Light>
+                </lightList>
+                <name>Small</name>
+                <id reference="../../net.rptools.maptool.model.GUID"/>
+                <type>AURA</type>
+                <lumens>0</lumens>
+                <scaleWithToken>false</scaleWithToken>
+              </net.rptools.maptool.model.LightSource>
+            </entry>
+            <entry>
+              <net.rptools.maptool.model.GUID>
+                <baGUID>wKgCBQkczR7hAAAAAIgAAQ==</baGUID>
+              </net.rptools.maptool.model.GUID>
+              <net.rptools.maptool.model.LightSource>
+                <lightList class="linked-list">
+                  <net.rptools.maptool.model.Light>
+                    <paint class="net.rptools.maptool.model.drawing.DrawableColorPaint">
+                      <color>-65279</color>
+                    </paint>
+                    <facingOffset>0.0</facingOffset>
+                    <radius>2.0</radius>
+                    <arcAngle>90.0</arcAngle>
+                    <shape>CIRCLE</shape>
+                    <isGM>false</isGM>
+                    <ownerOnly>false</ownerOnly>
+                  </net.rptools.maptool.model.Light>
+                </lightList>
+                <name>Medium</name>
+                <id reference="../../net.rptools.maptool.model.GUID"/>
+                <type>AURA</type>
+                <lumens>0</lumens>
+                <scaleWithToken>false</scaleWithToken>
+              </net.rptools.maptool.model.LightSource>
+            </entry>
+            <entry>
+              <net.rptools.maptool.model.GUID>
+                <baGUID>wKgCAxljn8BVAAAAwIgCAQ==</baGUID>
+              </net.rptools.maptool.model.GUID>
+              <net.rptools.maptool.model.LightSource>
+                <lightList class="linked-list">
+                  <net.rptools.maptool.model.Light>
+                    <paint class="net.rptools.maptool.model.drawing.DrawableColorPaint">
+                      <color>-65279</color>
+                    </paint>
+                    <facingOffset>0.0</facingOffset>
+                    <radius>9.0</radius>
+                    <arcAngle>30.0</arcAngle>
+                    <shape>CONE</shape>
+                    <isGM>false</isGM>
+                    <ownerOnly>false</ownerOnly>
+                  </net.rptools.maptool.model.Light>
+                </lightList>
+                <name>Cone</name>
+                <id reference="../../net.rptools.maptool.model.GUID"/>
+                <type>AURA</type>
+                <lumens>0</lumens>
+                <scaleWithToken>false</scaleWithToken>
+              </net.rptools.maptool.model.LightSource>
+            </entry>
+            <entry>
+              <net.rptools.maptool.model.GUID>
+                <baGUID>wKgCBQgczR7gAAAAAIgAAA==</baGUID>
+              </net.rptools.maptool.model.GUID>
+              <net.rptools.maptool.model.LightSource>
+                <lightList class="linked-list">
+                  <net.rptools.maptool.model.Light>
+                    <paint class="net.rptools.maptool.model.drawing.DrawableColorPaint">
+                      <color>-65279</color>
+                    </paint>
+                    <facingOffset>0.0</facingOffset>
+                    <radius>3.0</radius>
+                    <arcAngle>90.0</arcAngle>
+                    <shape>CIRCLE</shape>
+                    <isGM>false</isGM>
+                    <ownerOnly>false</ownerOnly>
+                  </net.rptools.maptool.model.Light>
+                </lightList>
+                <name>Big</name>
+                <id reference="../../net.rptools.maptool.model.GUID"/>
+                <type>AURA</type>
+                <lumens>0</lumens>
+                <scaleWithToken>false</scaleWithToken>
+              </net.rptools.maptool.model.LightSource>
+            </entry>
+          </map>
+        </entry>
+      </lightSourcesMap>
+      <lookupTableMap/>
+      <sightTypeMap/>
+      <defaultSightType>Normal</defaultSightType>
+      <tokenStates class="linked-hash-map">
+        <entry>
+          <string>SHAKEN</string>
+          <net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+            <name>SHAKEN</name>
+            <order>0</order>
+            <group>Condition</group>
+            <mouseover>false</mouseover>
+            <opacity>100</opacity>
+            <showGM>true</showGM>
+            <showOwner>true</showOwner>
+            <showOthers>true</showOthers>
+            <assetId>
+              <id>a92b2d1f19a9a383965f5bb6a1415bca</id>
+            </assetId>
+          </net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+        </entry>
+        <entry>
+          <string>DEAD</string>
+          <net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+            <name>DEAD</name>
+            <order>1</order>
+            <group>Condition</group>
+            <mouseover>false</mouseover>
+            <opacity>100</opacity>
+            <showGM>true</showGM>
+            <showOwner>true</showOwner>
+            <showOthers>true</showOthers>
+            <assetId>
+              <id>08831257b40575ad589e2d185de55533</id>
+            </assetId>
+          </net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+        </entry>
+        <entry>
+          <string>INCAPACITED</string>
+          <net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+            <name>INCAPACITED</name>
+            <order>2</order>
+            <group>Condition</group>
+            <mouseover>false</mouseover>
+            <opacity>100</opacity>
+            <showGM>true</showGM>
+            <showOwner>true</showOwner>
+            <showOthers>true</showOthers>
+            <assetId>
+              <id>86ff39b00acee4f5fea9b82e82be15b2</id>
+            </assetId>
+          </net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+        </entry>
+        <entry>
+          <string>Invisible</string>
+          <net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+            <name>Invisible</name>
+            <order>3</order>
+            <group></group>
+            <mouseover>false</mouseover>
+            <opacity>100</opacity>
+            <showGM>true</showGM>
+            <showOwner>false</showOwner>
+            <showOthers>false</showOthers>
+            <assetId>
+              <id>f9c5306f18764c83458f660d75b096b7</id>
+            </assetId>
+          </net.rptools.maptool.client.ui.token.ImageTokenOverlay>
+        </entry>
+      </tokenStates>
+      <tokenBars class="linked-hash-map">
+        <entry>
+          <string>Health</string>
+          <net.rptools.maptool.client.ui.token.TwoToneBarTokenOverlay>
+            <name>Health</name>
+            <order>0</order>
+            <mouseover>false</mouseover>
+            <opacity>100</opacity>
+            <showGM>true</showGM>
+            <showOwner>true</showOwner>
+            <showOthers>true</showOthers>
+            <increments>0</increments>
+            <side>TOP</side>
+            <barColor>
+              <red>32</red>
+              <green>180</green>
+              <blue>32</blue>
+              <alpha>255</alpha>
+            </barColor>
+            <thickness>6</thickness>
+            <bgColor>
+              <red>0</red>
+              <green>0</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </bgColor>
+          </net.rptools.maptool.client.ui.token.TwoToneBarTokenOverlay>
+        </entry>
+      </tokenBars>
+      <characterSheets>
+        <entry>
+          <string>Basic</string>
+          <string>net/rptools/maptool/client/ui/forms/BasicCharacterSheet.jfrm</string>
+        </entry>
+      </characterSheets>
+      <initiativeOwnerPermissions>false</initiativeOwnerPermissions>
+      <initiativeMovementLock>false</initiativeMovementLock>
+      <initiativeUseReverseSort>false</initiativeUseReverseSort>
+      <initiativePanelButtonsDisabled>false</initiativePanelButtonsDisabled>
+    </campaignProperties>
+    <macroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>27</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h:tokens = getSelectedNames()]
+[h: assetId = getTokenPortrait()]
+[h,if(assetId == &quot;&quot;): assetId = getTokenImage()]
+[h,if(listCount(tokens) != 1): abort(0)]
+[h:token = listGet(tokens, 0)]
+[h:go = 1]
+[h,if(startsWith(token, &quot;Lib&quot;)): abort(0)]
+[h,if(!isGM() &amp;&amp; isNPC(token)):abort(0)]
+[frame(&quot;Character Sheet&quot;):
+{
+  &lt;html&gt;
+  &lt;head&gt;
+  &lt;title&gt;Savage Worlds&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body  bgcolor=&apos;#ffffff&apos;&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src =&quot;[r: assetID]&quot;&gt;&lt;/img&gt;
+&lt;/div&gt;
+  &lt;table border=0 width=&apos;100%&apos;&gt;
+&lt;img src =&quot;[r: getTokenImage()]&quot;&gt;
+  &lt;tr bgcolor=&apos;#361b7a&apos; color=&apos;#FCFAE1&apos;&gt;
+  &lt;td colspan=&apos;2&apos;&gt;&lt;b&gt;[r:token]&lt;/b&gt;&lt;/td&gt;
+  &lt;td colspan=&apos;2&apos;&gt;&lt;b&gt;Type&lt;/b&gt;: [r: if( WildCard&gt;0, &quot; WILD CARD &quot;, &quot;&quot;)][r: if( Perso&gt;0, &quot; PC&quot;, &quot; NPC&quot;)]&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+  &lt;td valign=&apos;top&apos; colspan=&apos;2&apos;&gt;[h: stateList = getTokenStates( &quot;json&quot;, &quot;Condition&quot;)][h:sList = &quot;&quot;][h, foreach(item, stateList, &quot;&quot;), if(getState(item)): sList=listAppend(sList,item)]&lt;b&gt;[r:sList]&lt;/b&gt;&lt;/td&gt;
+
+&lt;td&gt;[r: if (WildCard&gt;0, &quot; Wounds -&quot; + Blessures, &quot;&quot;)]&lt;/td&gt;  
+&lt;td&gt;[r: &quot; Fatigue -&quot; + Fatigue, &quot;&quot;)] &lt;/td&gt;
+&lt;td&gt;[r: if( WildCard&gt;0, &quot; Bennies &quot; + PtsDestin, &quot;&quot;)]&lt;/td&gt;
+&lt;td&gt;[r: if( PouvoirArcane&gt;0, &quot; Power &quot; + PtsPouvoir, &quot;&quot;)]&lt;/b&gt;&lt;/td&gt;
+  &lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td&gt;&lt;b&gt;Agility&lt;/b&gt;: [r:&quot;D&quot; +Agil]&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Smarts&lt;/b&gt;: [r:&quot;D&quot; +Intell]&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Spirit&lt;/b&gt;: [r:&quot;D&quot; +Vol]&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Strength&lt;/b&gt;: [r:&quot;D&quot; +For]&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Vigor&lt;/b&gt;: [r:&quot;D&quot; +End]&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+   &lt;td&gt;&lt;b&gt;Pace&lt;/b&gt;: [r:Mov][r:&quot;+D&quot; +Course]&lt;/td&gt;
+   &lt;td&gt;&lt;b&gt;Parry&lt;/b&gt;: [r:Par+Bcl]&lt;/td&gt;
+   &lt;td&gt;&lt;b&gt;Toughness&lt;/b&gt;: [r:Resist]&lt;/td&gt;
+   &lt;td&gt;&lt;b&gt;Charisma&lt;/b&gt;: [r:Char]&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+ &lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+&lt;b&gt;Edges&lt;/b&gt;
+[r: Avantages]
+ &lt;/td&gt;
+ &lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+  &lt;b&gt;Hindrances&lt;/b&gt;
+[r: Handicaps]
+ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+  &lt;b&gt;Skills AG&lt;/b&gt;: 
+ [r: TalentsAg]
+  &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+  &lt;b&gt;Skills STR&lt;/b&gt;: 
+[r: TalentsStr]
+  &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+  &lt;b&gt;Skills SM&lt;/b&gt;: 
+  [r: TalentsInt]
+  &lt;/td&gt;
+ &lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+  &lt;b&gt;Skills SP&lt;/b&gt;: 
+[r: TalentsVol]
+  &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+  &lt;b&gt;Powers&lt;/b&gt;
+[r: Pouvoirs]
+ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;b&gt;&lt;br&gt;EQUIPMENT:&lt;/b&gt;&lt;/tr&gt;
+&lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;b&gt;Armor&lt;/b&gt;&lt;/tr&gt;
+&lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Head&lt;/b&gt;: [r:Protete]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td&gt;&lt;b&gt;Left Arm&lt;/b&gt;: [r:ProBG]&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Torso&lt;/b&gt;: [r:Protorse]&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Right Arm&lt;/b&gt;: [r:ProBD]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td&gt;&lt;b&gt;Left Leg&lt;/b&gt;: [r:ProJG]&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Right Leg&lt;/b&gt;: [r:ProJD]&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+&lt;b&gt;Weapons:&lt;/b&gt; [r: Arme]&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+&lt;b&gt;Kits:&lt;/b&gt; [r: Sets]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+&lt;b&gt;Potions:&lt;/b&gt; [r: Potion]&lt;/td&gt;&lt;/tr&gt;
+&lt;tr bgcolor=&apos;#bbc6fb&apos;&gt;
+&lt;td valign=&apos;top&apos; colspan=&apos;4&apos;&gt;
+&lt;b&gt;Others:&lt;/b&gt; [r: Divers]
+&lt;/td&gt;&lt;/tr&gt;
+ &lt;/table&gt;
+ &lt;/body&gt;
+&lt;/html&gt;
+}]</command>
+        <label>Character Sheet</label>
+        <group>1-Characters</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>37</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Status = input(
+  
+&quot;tab0 | Attributs | | TAB |&quot;,
+&quot;Nom|&quot; + Nom + &quot;|NAME&quot;,
+&quot;Wildcard|&quot; + Wildcard + &quot;|Wildcard|CHECK&quot;,
+&quot;Perso|&quot; + Perso + &quot;|Player Character|CHECK&quot;,
+&quot;PouvoirArcane|&quot; + PouvoirArcane + &quot;|Arcane|CHECK&quot;,
+&quot;Agil|&quot; + Agil + &quot;|Agility|TEXT&quot;,
+&quot;Intell|&quot; + Intell + &quot;|Smarts|TEXT&quot;,
+&quot;Vol|&quot; + Vol + &quot;|Spirit|TEXT&quot;,
+&quot;For|&quot; + For + &quot;|Strength|TEXT&quot;,
+&quot;End|&quot; + End + &quot;|Vigor|TEXT&quot;,
+&quot;Mov|&quot; + Mov + &quot;|Pace&quot;,
+&quot;Course|&quot; + Course + &quot;|Running&quot;,
+
+&quot;tab0 | Edges | | TAB |&quot;,
+&quot;Ace|&quot; + Ace + &quot;|Ace|CHECK&quot;,
+&quot;Acrobat|&quot; + Acrobat + &quot;|Acrobat|CHECK&quot;,
+&quot;Alertness|&quot; + Alertness + &quot;|Alertness|CHECK&quot;,
+&quot;Ambidextrous|&quot; + Ambidextrous + &quot;|Ambidextrous|CHECK&quot;,
+&quot;ArcaneBackground|&quot; + ArcaneBackground + &quot;|Arcane Background|CHECK&quot;,
+&quot;ArcaneResistance|&quot; + ArcaneResistance + &quot;|Arcane Resistance|CHECK&quot;,
+&quot;ImpArcaneRes|&quot; + ImpArcaneRes + &quot;|Improved Arcane Resistance|CHECK&quot;,
+&quot;Attractive|&quot; + Attractive + &quot;|Attractive|CHECK&quot;,
+&quot;VeryAttractive|&quot; + VeryAttractive + &quot;|Very Attractive|CHECK&quot;,
+&quot;BeastBond|&quot; + BeastBond + &quot;|Beast Bond|CHECK&quot;,
+&quot;BeastMaster|&quot; + BeastMaster + &quot;|Beast Master|CHECK&quot;,
+&quot;Berserk|&quot; + Berserk + &quot;|Berserk|CHECK&quot;,
+&quot;Block|&quot; + Block + &quot;|Block|CHECK&quot;,
+&quot;ImprovedBlock|&quot; + ImprovedBlock + &quot;|Improved Block|CHECK&quot;,
+&quot;Brawny|&quot; + Brawny + &quot;|Brawny|CHECK&quot;,
+&quot;Champion|&quot; + Champion + &quot;|Champion|CHECK&quot;,
+&quot;Charismatic|&quot; + Charismatic + &quot;|Charismatic|CHECK&quot;,
+&quot;CombatReflexes|&quot; + CombatReflexes + &quot;|Combat Reflexes|CHECK&quot;,
+&quot;Command|&quot; + Command + &quot;|Command|CHECK&quot;,
+&quot;CommonBond|&quot; + CommonBond + &quot;|Common Bond|CHECK&quot;,
+&quot;Connections|&quot; + Connections + &quot;|Connections|CHECK&quot;,
+&quot;DangerSense|&quot; + DangerSense + &quot;|Danger Sense|CHECK&quot;,
+&quot;DeadShot|&quot; + DeadShot + &quot;|Dead Shot|CHECK&quot;,
+&quot;Dodge|&quot; + Dodge + &quot;|Dodge|CHECK&quot;,
+&quot;ImprovedDodge|&quot; + ImprovedDodge + &quot;|Improved Dodge|CHECK&quot;,
+&quot;FastHealer|&quot; + FastHealer + &quot;|Fast Healer|CHECK&quot;,
+&quot;Fervor|&quot; + Fervor + &quot;|Fervor|CHECK&quot;,
+&quot;FirstStrike|&quot; + FirstStrike + &quot;|First Strike|CHECK&quot;,
+&quot;ImpFirstStrike|&quot; + ImpFirstStrike + &quot;|Improved First Strike|CHECK&quot;,
+&quot;FleetFooted|&quot; + FleetFooted + &quot;|Fleet Footed|CHECK&quot;,
+&quot;Florentine|&quot; + Florentine + &quot;|Florentine|CHECK&quot;,
+&quot;Followers|&quot; + Followers + &quot;|Followers|CHECK&quot;,
+&quot;Frenzy|&quot; + Frenzy + &quot;|Frenzy|CHECK&quot;,
+&quot;ImpFrenzy|&quot; + ImpFrenzy + &quot;|Improved Frenzy|CHECK&quot;,
+&quot;Gadgeteer|&quot; + Gadgeteer + &quot;|Gadgeteer|CHECK&quot;,
+&quot;GiantKiller|&quot; + GiantKiller +&quot;|Giant Killer|CHECK&quot;,
+&quot;HardtoKill|&quot; + HardtoKill +&quot;|Hard to Kill|CHECK&quot;,
+&quot;HardertoKill|&quot; + HardertoKill +&quot;|Harder to Kill|CHECK&quot;,
+&quot;Healer|&quot; + Healer +&quot;|Healer|CHECK&quot;,
+&quot;HoldtheLine|&quot; + HoldtheLine +&quot;|Hold the line|CHECK&quot;,
+&quot;HolyWarrior|&quot; + HolyWarrior +&quot;|Holy Warrior|CHECK&quot;,
+&quot;unHolyWarrior|&quot; + unHolyWarrior +&quot;|Unholy Warrior|CHECK&quot;,
+&quot;Inspire|&quot; + Inspire +&quot;|Inspire|CHECK&quot;,
+&quot;Investigator|&quot; + Investigator +&quot;|Investigator|CHECK&quot;,
+&quot;JackofallTrades|&quot; + JackofallTrades +&quot;|Jack of all Trades|CHECK&quot;,
+&quot;LevelHeaded|&quot; + LevelHeaded +&quot;|Level Headed|CHECK&quot;,
+&quot;ImpLevelHeaded|&quot; + ImpLevelHeaded +&quot;|Improved Level Headed|CHECK&quot;,
+&quot;Luck|&quot; + Luck +&quot;|Luck|CHECK&quot;,
+&quot;GreatLuck|&quot; + GreatLuck +&quot;|Great Luck|CHECK&quot;,
+&quot;Marksman|&quot; + Marksman +&quot;|Marksman|CHECK&quot;,
+&quot;McGyver|&quot; + McGyver +&quot;|McGyver|CHECK&quot;,
+&quot;Mentalist|&quot; + Mentalist +&quot;|Mentalist|CHECK&quot;,
+&quot;MightyBlow|&quot; + MightyBlow +&quot;|Mighty Blow|CHECK&quot;,
+&quot;MrFixIt|&quot; + MrFixIt +&quot;|Mr Fixit|CHECK&quot;,
+&quot;NaturalLeader|&quot; + NaturalLeader +&quot;|Natural Leader|CHECK&quot;,
+&quot;NervesofSteel|&quot; + NervesofSteel +&quot;|Nerves of Steel|CHECK&quot;,
+&quot;ImpNervesofSteel|&quot; + ImpNervesofSteel +&quot;|Improved Nerves of Steel|CHECK&quot;,
+&quot;NewPower|&quot; + NewPower +&quot;|New Power&quot;,
+&quot;Noble|&quot; + Noble +&quot;|Noble|CHECK&quot;,
+&quot;NoMercy|&quot; + NoMercy +&quot;|No Mercy|CHECK&quot;,
+&quot;PowerPoints|&quot; + PowerPoints +&quot;|Power Points|CHECK&quot;,
+&quot;PowerSurge|&quot; + PowerSurge +&quot;|Power Surge|CHECK&quot;,
+&quot;Professional|&quot; + Professional +&quot;|Professional|CHECK&quot;,
+&quot;Expert|&quot; + Expert +&quot;|Expert|CHECK&quot;,
+&quot;Master|&quot; + Master +&quot;|Master|CHECK&quot;,
+&quot;Quick|&quot; + Quick +&quot;|Quick|CHECK&quot;,
+&quot;QuickDraw|&quot; + QuickDraw +&quot;|Quick Draw|CHECK&quot;,
+&quot;RapidRecharge|&quot; + RapidRecharge +&quot;|Rapid Recharge|CHECK&quot;,
+&quot;ImpRapidRecharge|&quot; + ImpRapidRecharge +&quot;|Improved Rapid Recharge|CHECK&quot;,
+&quot;Rich|&quot; + Rich +&quot;|Rich|CHECK&quot;,
+&quot;FilthyRich|&quot; + FilthyRich +&quot;|Filthy Riche|CHECK&quot;,
+&quot;RockandRoll|&quot; + RockandRoll +&quot;|Rock and Roll|CHECK&quot;,
+&quot;Scholar|&quot; + Scholar +&quot;|Scholar|CHECK&quot;,
+&quot;Sidekick|&quot; + Sidekick +&quot;|Sidekick|CHECK&quot;,
+&quot;SoulDrain|&quot; + SoulDrain +&quot;|Soul Drain|CHECK&quot;,
+&quot;SteadyHands|&quot; + SteadyHands +&quot;|Steady Hands|CHECK&quot;,
+&quot;Sweep|&quot; + Sweep +&quot;|Sweep|CHECK&quot;,
+&quot;ImpSweep|&quot; + ImpSweep +&quot;|Improved Sweep|CHECK&quot;,
+&quot;StrongWilled|&quot; + StrongWilled +&quot;|Strong Willed|CHECK&quot;,
+&quot;Thief|&quot; + Thief +&quot;|Thief|CHECK&quot;,
+&quot;ToughasNails|&quot; + ToughasNails +&quot;|Tough as Nails|CHECK&quot;,
+&quot;ImpToughasNails|&quot; + ImpToughasNails +&quot;|Improved Though as Nails|CHECK&quot;,
+&quot;TrademarkWeapon|&quot; + TrademarkWeapon +&quot;|Trademark Weapon|CHECK&quot;,
+&quot;ImpTrWeapon|&quot; + ImpTrWeapon +&quot;|Improved Trademark Weapon|CHECK&quot;,
+&quot;TwoFisted|&quot; + TwoFisted +&quot;|Two Fisted|CHECK&quot;,
+&quot;WeaponMaster|&quot; + WeaponMaster +&quot;|Weapon Master|CHECK&quot;,
+&quot;MasterofArms|&quot; + MasterofArms +&quot;|Master of Arms|CHECK&quot;,
+&quot;Wizard|&quot; + Wizard +&quot;|Wizard|CHECK&quot;,
+&quot;Woodsman|&quot; + Woodsman +&quot;|Woodsman|CHECK&quot;,
+
+&quot;tab0 | Hindrances | | TAB |&quot;,
+&quot;AllThumbs|&quot; + AllThumbs + &quot;|All Thumbs|CHECK&quot;,
+&quot;Anemic|&quot; + Anemic + &quot;|Anemic|CHECK&quot;,
+&quot;Arrogant|&quot; + Arrogant + &quot;|Arrogant|CHECK&quot;,
+&quot;BadEyes|&quot; + BadEyes + &quot;|Bad Eyes|CHECK&quot;,
+&quot;BadLuck|&quot; + BadLuck + &quot;|Bad Luck|CHECK&quot;,
+&quot;BigMouth|&quot; + BigMouth + &quot;|Big Mouth|CHECK&quot;,
+&quot;Blind|&quot; + Blind + &quot;|Blind|CHECK&quot;,
+&quot;Bloodthirsty|&quot; + Bloodthirsty + &quot;|Bloodthirsty|CHECK&quot;,
+&quot;Cautious|&quot; + Cautious + &quot;|Cautious|CHECK&quot;,
+&quot;Clueless|&quot; + Clueless + &quot;|Clueless|CHECK&quot;,
+&quot;CodeofHonor|&quot; + CodeofHonor + &quot;|Code of Honor|CHECK&quot;,
+&quot;Curious|&quot; + Curious + &quot;|Curious|CHECK&quot;,
+&quot;DeathWish|&quot; + DeathWish + &quot;|Death Wish|CHECK&quot;,
+&quot;Delusional|&quot; + Delusional + &quot;|Delusional|CHECK&quot;,
+&quot;DoubtingThomas|&quot; + DoubtingThomas + &quot;|Doubting Thomas|CHECK&quot;,
+&quot;Elderly|&quot; + Elderly + &quot;|Elderly|CHECK&quot;,
+&quot;Enemy|&quot; + Enemy + &quot;|Enemy|CHECK&quot;,
+&quot;Greedy|&quot; + Greedy + &quot;|Greedy|CHECK&quot;,
+&quot;Habit|&quot; + Habit + &quot;|Habit|CHECK&quot;,
+&quot;HardofHearing|&quot; + HardofHearing + &quot;|Hard of Hearing|CHECK&quot;,
+&quot;Heroic|&quot; + Heroic + &quot;|Heroic|CHECK&quot;,
+&quot;Illiterate|&quot; + Illiterate + &quot;|Iliterate|CHECK&quot;,
+&quot;Lame|&quot; + Lame + &quot;|Lame|CHECK&quot;,
+&quot;Loyal|&quot; + Loyal + &quot;|Loyal|CHECK&quot;,
+&quot;Mean|&quot; + Mean + &quot;|Mean|CHECK&quot;,
+&quot;Obese|&quot; + Obese + &quot;|Obese|CHECK&quot;,
+&quot;OneArm|&quot; + OneArm + &quot;|One Arm|CHECK&quot;,
+&quot;OneEye|&quot; + OneEye + &quot;|One Eye|CHECK&quot;,
+&quot;OneLeg|&quot; + OneLeg + &quot;|One Leg|CHECK&quot;,
+&quot;Outsider|&quot; + Outsider + &quot;|Outsider|CHECK&quot;,
+&quot;Overconfident|&quot; + Overconfident + &quot;|Overconfident|CHECK&quot;,
+&quot;Pacifist|&quot; + Pacifist + &quot;|Pacifist|CHECK&quot;,
+&quot;Phobia|&quot; + Phobia + &quot;|Phobia|CHECK&quot;,
+&quot;Poverty|&quot; + Poverty + &quot;|Poverty|CHECK&quot;,
+&quot;Quirk|&quot; + Quirk + &quot;|Quirk|CHECK&quot;,
+&quot;Small|&quot; + Small + &quot;|Small|CHECK&quot;,
+&quot;Stubborn|&quot; + Stubborn + &quot;|Stubborn|CHECK&quot;,
+&quot;Ugly|&quot; + Ugly + &quot;|Ugly|CHECK&quot;,
+&quot;Vengeful|&quot; + Vengeful + &quot;|Vengeful|CHECK&quot;,
+&quot;Vow|&quot; + Vow + &quot;|Vow|CHECK&quot;,
+&quot;Wanted|&quot; + Wanted + &quot;|Wanted|CHECK&quot;,
+&quot;Yellow|&quot; + Yellow + &quot;|Yellow|CHECK&quot;,
+&quot;Young|&quot; + Young + &quot;|Young|CHECK&quot;,
+
+&quot;tab0 | Skills | | TAB |&quot;,
+&quot;Boat|&quot; + Boat + &quot;|Boat&quot;,
+&quot;Climb|&quot; + Climb + &quot;|Climbing&quot;,
+&quot;Driv|&quot; + Driv + &quot;|Driving&quot;,
+&quot;Fight|&quot; + Fight + &quot;|Fighting&quot;,
+&quot;Gambl|&quot; + Gambl + &quot;|Gambling&quot;,
+&quot;Guts|&quot; + Guts + &quot;|Guts&quot;,
+&quot;Heal|&quot; + Heal + &quot;|Healing&quot;,
+&quot;Intimid|&quot; + Intimid + &quot;|Intimidation&quot;,
+&quot;Invest|&quot; + Invest + &quot;|Investigation&quot;,
+&quot;Knowl|&quot; + Knowl + &quot;|Knowledge|TEXT&quot;,
+&quot;Lock|&quot; + Lock + &quot;|Lockpicking&quot;,
+&quot;Notice|&quot; + Notice + &quot;|Notice&quot;,
+&quot;Persuade|&quot; + Persuade + &quot;|Persuade&quot;,
+&quot;Pilot|&quot; + Pilot + &quot;|Piloting&quot;,
+&quot;Repair|&quot; + Repair + &quot;|Repair&quot;,
+&quot;Ride|&quot; + Ride + &quot;|Riding&quot;,
+&quot;Shoot|&quot; + Shoot + &quot;|Shooting&quot;,
+&quot;Stealth|&quot; + Stealth + &quot;|Stealth&quot;,
+&quot;Street|&quot; + Street + &quot;|Streetwise&quot;,
+&quot;Survive|&quot; + Survive + &quot;|Survival&quot;,
+&quot;Swim|&quot; + Swim + &quot;|Swimming&quot;,
+&quot;Taunt|&quot; + Taunt + &quot;|Taunt&quot;,
+&quot;Throw|&quot; + Throw + &quot;|Throwing&quot;,
+&quot;Track|&quot; + Track + &quot;|Tracking&quot;,
+
+&quot;tab0 | Powers | | TAB |&quot;,
+&quot;pwArmure|&quot; + pwArmure + &quot;|Armor|CHECK&quot;,
+&quot;pwBarriere|&quot; + pwBarriere + &quot;|Barrier|CHECK&quot;,
+&quot;pwAmiAnimaux|&quot; + pwAmiAnimaux + &quot;|Beast Friend|CHECK&quot;,
+&quot;pwExplosion|&quot; + pwExplosion + &quot;|Blast|CHECK&quot;,
+&quot;pwRayon|&quot; + pwRayon + &quot;|Bolt|CHECK&quot;,
+&quot;pwAugDimTrait|&quot; + pwAugDimTrait + &quot;|Boost/Lower Trait|CHECK&quot;,
+&quot;pwEnfouissement|&quot; + pwEnfouissement + &quot;|Burrow|CHECK&quot;,
+&quot;pwSalve|&quot; + pwSalve + &quot;|Burst|CHECK&quot;,
+&quot;pwDeflexion|&quot; + pwDeflexion + &quot;|Deflection|CHECK&quot;,
+&quot;pwDetectCacherArcanes|&quot; + pwDetectCacherArcanes + &quot;|Detect/Conceal Arcanes|CHECK&quot;,
+&quot;pwDissiper|&quot; + pwDissiper + &quot;|Dispel|CHECK&quot;,
+&quot;pwManipElements|&quot; + pwManipElements + &quot;|Elemental Manipuler|CHECK&quot;,
+&quot;pwEmpetrer|&quot; + pwEmpetrer + &quot;|Entangle|CHECK&quot;,
+&quot;pwProtecElements|&quot; + pwProtecElements + &quot;|Environmental Protection|CHECK&quot;,
+&quot;pwPeur|&quot; + pwPeur + &quot;|Fear|CHECK&quot;,
+&quot;pwVol|&quot; + pwVol + &quot;|Fly|CHECK&quot;,
+&quot;pwSoins|&quot; + pwSoins + &quot;|Healing|CHECK&quot;,
+&quot;pwSoinsAv|&quot; + pwSoinsAv + &quot;|Greater Healing|CHECK&quot;,
+&quot;pwInvisibilite|&quot; + pwInvisibilite + &quot;|Invisibility|CHECK&quot;,
+&quot;pwLumiere|&quot; + pwLumiere + &quot;|Light|CHECK&quot;,
+&quot;pwObscurite|&quot; + pwObscurite + &quot;|Obscure|CHECK&quot;,
+&quot;pwPantin|&quot; + pwPantin + &quot;|Puppet|CHECK&quot;,
+&quot;pwRapidite|&quot; + pwRapidite + &quot;|Quickness|CHECK&quot;,
+&quot;pwGarou|&quot; + pwGarou + &quot;|Shape Change|CHECK&quot;,
+&quot;pwEnchantArme|&quot; + pwEnchantArme + &quot;|Smite|CHECK&quot;,
+&quot;pwParlerLangue|&quot; + pwParlerLangue + &quot;|Speak Language|CHECK&quot;,
+&quot;pwVitesse|&quot; + pwVitesse + &quot;|Speed|CHECK&quot;,
+&quot;pwOndeChoc|&quot; + pwOndeChoc + &quot;|Stun|CHECK&quot;,
+&quot;pwTelekinesie|&quot; + pwTelekinesie + &quot;|Telekinesis|CHECK&quot;,
+&quot;pwTeleportation|&quot; + pwTeleportation + &quot;|Teleport|CHECK&quot;,
+&quot;pwZombie|&quot; + pwZombie + &quot;|Zombie|CHECK&quot;,
+
+&quot;tab0 | Armor | | TAB |&quot;,
+&quot;Protete|&quot; + Protete + &quot;|Head&quot;,
+&quot;Protorse|&quot; + Protorse + &quot;|Torso&quot;,
+&quot;ProBD|&quot; + ProBD + &quot;|Right Arm&quot;,
+&quot;ProBG|&quot; + ProBG + &quot;|Left Arm&quot;,
+&quot;ProJD|&quot; + ProJD + &quot;|Right Leg&quot;,
+&quot;ProJG|&quot; + ProJG + &quot;|Left Leg&quot;,
+&quot;Bcl|&quot; + Bcl + &quot;|Shield&quot;,
+
+&quot;tab0 | Equipment | | TAB |&quot;,
+&quot;Equipement|&quot; + Equipement + &quot;|Kits&quot;,
+&quot;Armes|&quot; + Armes + &quot;|Weapons&quot;,
+&quot;Potions|&quot; + Potions + &quot;|Potions&quot;,
+&quot;Special|&quot; + Special + &quot;|Special&quot;,
+&quot;Brol|&quot; + Brol + &quot;|Stuff&quot;
+)]
+
+
+[h: setName(Nom)]
+[h, IF (WildCard &gt; 0): status=input(&quot;PtsDestin|&quot; + PtsDestin + &quot;|Bennies&quot;)]
+[h, IF (Perso &gt; 0): setPC()]
+[h, IF (Perso == 0): setNPC()]
+[h, IF (PouvoirArcane &gt; 0): status=input(&quot;PtsPouvoirMax|&quot; + PtsPouvoirMax + &quot;|Maximum Power Points&quot;)]
+[h, IF (PouvoirArcane &gt; 0): status=input(&quot;PtsPouvoir|&quot; + PtsPouvoir + &quot;|Actual Power Points&quot;)]
+[h: abort(Status)]
+</command>
+        <label>Input</label>
+        <group>1-Characters</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>11</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;Blessures&quot;]
+[h: Value = Blessures - Healing]
+[h: Value2=max(0,Value)]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value2, ID)]
+[h, IF (Blessures &lt; 4): setState (&quot;INCAPACITED&quot;,0)]
+[h, IF (WildCard &lt;1 &amp;&amp; Blessures &lt; 1): setState (&quot;DEAD&quot;,0)]</command>
+        <label>Healing</label>
+        <group>2-Wounds</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>8</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;Blessures&quot;]
+[h: Value = Blessures + Wound]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value, ID)]
+[h, IF (Blessures &gt; 3): setState (&quot;INCAPACITED&quot;,1)]
+[h, IF (WildCard &lt; 1): setState (&quot;INCAPACITED&quot;,0)]
+[h, IF (WildCard &lt; 1): setState (&quot;DEAD&quot;,1)]
+[h, IF (WildCard &lt; 1): Blessures=1]</command>
+        <label>Wounds</label>
+        <group>2-Wounds</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>9</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;Fatigue&quot;]
+[h: Value = Fatigue + Tiring]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value, ID)]
+[h, IF (Fatigue &gt; 2): setState (&quot;INCAPACITED&quot;,1)]</command>
+        <label>Fatigue</label>
+        <group>3-Fatigue</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>12</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;Fatigue&quot;]
+[h: Value = Fatigue - Recovering]
+[h: Value2=max(0,Value)]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value2, ID)]
+[h, IF (Fatigue &lt; 3): setState (&quot;INCAPACITED&quot;,0)]
+</command>
+        <label>Rest</label>
+        <group>3-Fatigue</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>25</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;PtsPouvoir&quot;]
+[h: Value = PtsPouvoir + Increase]
+[h: Value2=min(PtsPouvoirMax,Value)]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value2, ID)]</command>
+        <label>Points +</label>
+        <group>4-Power</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>26</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;PtsPouvoir&quot;]
+[h: Value = PtsPouvoir - Cost]
+[h: Value2=max(0,Value)]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value2, ID)]</command>
+        <label>Points -</label>
+        <group>4-Power</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>13</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;PtsDestin&quot;]
+[h: Value = PtsDestin + Increase]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value, ID)]</command>
+        <label>Bennies +</label>
+        <group>5-Bennies</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>14</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: Property = &quot;PtsDestin&quot;]
+[h: Value = PtsDestin - Decrease]
+[h: Value2=max(0,Value)]
+[h: ID = getSelected()]
+[h: setProperty(Property, Value2, ID)]
+
+</command>
+        <label>Bennies -</label>
+        <group>5-Bennies</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>18</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: setState(&quot;DEAD&quot;, 1)]</command>
+        <label>Death+</label>
+        <group>6-States</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>23</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: setState(&quot;DEAD&quot;, 0)]</command>
+        <label>Death-</label>
+        <group>6-States</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>21</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: setState(&quot;INCAPACITED&quot;, 1)]</command>
+        <label>Out+</label>
+        <group>6-States</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>22</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: setState(&quot;INCAPACITED&quot;, 0)]</command>
+        <label>Out-</label>
+        <group>6-States</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>17</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: setState(&quot;SHAKEN&quot;, 1)]</command>
+        <label>Shaken+</label>
+        <group>6-States</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>19</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: setState(&quot;SHAKEN&quot;, 0)]</command>
+        <label>Shaken-</label>
+        <group>6-States</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>32</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[H: i = getTokenImage()]
+[H: i1 = getTokenPortrait()]
+[H: i2 = getTokenHandout()]
+[H: setTokenImage( if( i == i1, i2, i1))]
+[H: abort(0)]</command>
+        <label>Image</label>
+        <group>7-Appearence</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>33</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[H: i = getTokenPortrait()]
+[H: i1 = getTokenPortrait()]
+[H: i2 = getTokenHandout()]
+[H: setTokenPortrait( if( i == i1, i2, i1))]
+[H: setTokenHandout( if( i == i1, i1, i2))]
+[H: abort(0)]</command>
+        <label>Portrait</label>
+        <group>7-Appearence</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>34</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: layerName = getLayer()]
+[h: layerName = if(layerName==&quot;GM&quot;, &quot;OBJECT&quot;, &quot;GM&quot;)]
+[h: setLayer(layerName)]</command>
+        <label>O&gt;&gt;H</label>
+        <group>8-Maps</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>false</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>29</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>&lt;!--fetch list of maps and PC token Ids
+[h:MapList=getAllMapNames()]
+[h:playerids=getPC()]
+
+&lt;!-- abort macro if nothing selected
+[h,if(playerids==&quot;&quot;):cancel=0;cancel=1]
+[h:abort(cancel)]
+
+&lt;!--present drop down list of maps
+[h:Choice=input(&quot;MapChoice|&quot;+MapList+&quot;|Placer les PCs sur la carte:|List&quot;)]
+[h:abort(Choice)]
+
+&lt;!--lookup map name on map list
+[h:MoveToMap=ListGet(MapList,MapChoice)]
+
+
+&lt;!--send PC tokens to selected map
+[h,foreach(player,playerids):moveTokenToMap(player,MoveToMap,1,1)]
+
+&lt;!--change current map to new map
+[h:setCurrentMap(MoveToMap)]
+
+All PCs moved to map -&gt; [r:MoveToMap]</command>
+        <label>PCs&gt;</label>
+        <group>8-Maps</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>false</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>31</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>&lt;!--fetch list of maps and PC token Ids
+[h:MapList=getAllMapNames()]
+[h:playerids=getSelected()]
+
+&lt;!-- abort macro if nothing selected
+[h,if(playerids==&quot;&quot;):cancel=0;cancel=1]
+[h:abort(cancel)]
+
+&lt;!--present drop down list of maps
+[h:Choice=input(&quot;MapChoice|&quot;+MapList+&quot;|Placer la selection sur la carte:|List&quot;)]
+[h:abort(Choice)]
+
+&lt;!--lookup map name on map list
+[h:MoveToMap=ListGet(MapList,MapChoice)]
+
+
+&lt;!--send PC tokens to selected map
+[h,foreach(player,playerids):moveTokenToMap(player,MoveToMap,1,1)]
+
+&lt;!--change current map to new map
+[h:setCurrentMap(MoveToMap)]
+
+All PCs moved to map -&gt; [r:MoveToMap]</command>
+        <label>Select&gt;</label>
+        <group>8-Maps</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>false</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>35</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: tokens = getSelected()]
+[h, foreach(id, tokens, &quot;&quot;), code:{
+[h: bringToFront(id)]
+}]</command>
+        <label>Z+</label>
+        <group>8-Maps</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>36</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: tokens = getSelected()]
+[h, foreach(id, tokens, &quot;&quot;), code:{
+[h: sendToBack(id)]
+}]</command>
+        <label>Z-</label>
+        <group>8-Maps</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>40</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: clearLights()]
+[h:status=input(
+&quot;Zone|Cone,Small,Medium,Big|Effect Zone|LIST|SELECT=0 VALUE=STRING&quot;
+)]
+[h: setLight(&quot;Burst&quot;, Zone, 1)]
+
+</command>
+        <label>Effects</label>
+        <group>9-Visibility</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>39</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>&lt;!--fetch list of PC token Ids
+
+[h:playerids=getPC()]
+
+&lt;!-- abort macro if nothing selected
+[h,if(playerids==&quot;&quot;):cancel=0;cancel=1]
+[h:abort(cancel)]
+
+&lt;!--set tokens to invisible
+[h,foreach(player,playerids):setVisible(0)]
+[h,foreach(player,playerids):setState(&quot;Invisible&quot;, 1)]
+
+</command>
+        <label>Invis</label>
+        <group>9-Visibility</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>41</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: clearLights()]
+[h:status=input(
+&quot;Eclairage|Torch,Lamp,Candle|Light Type|LIST|SELECT=0 VALUE=STRING&quot;
+)]
+[h: setLight(&quot;SW&quot;, Eclairage, 1)]
+</command>
+        <label>Lights</label>
+        <group>9-Visibility</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>38</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>&lt;!--fetch list of PC token Ids
+
+[h:playerids=getPC()]
+
+&lt;!-- abort macro if nothing selected
+[h,if(playerids==&quot;&quot;):cancel=0;cancel=1]
+[h:abort(cancel)]
+
+&lt;!--set tokens to invisible
+[h,foreach(player,playerids):setVisible(1)]
+[h,foreach(player,playerids):setState(&quot;Invisible&quot;, 0)]
+</command>
+        <label>Vis</label>
+        <group>9-Visibility</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+      <net.rptools.maptool.model.MacroButtonProperties>
+        <saveLocation>CampaignPanel</saveLocation>
+        <index>42</index>
+        <colorKey>#FCFAE1</colorKey>
+        <hotKey>None</hotKey>
+        <command>[h: clearLights()]</command>
+        <label>X</label>
+        <group>9-Visibility</group>
+        <sortby></sortby>
+        <autoExecute>true</autoExecute>
+        <includeLabel>false</includeLabel>
+        <applyToTokens>true</applyToTokens>
+        <fontColorKey>#4C1818</fontColorKey>
+        <fontSize>1.00em</fontSize>
+        <minWidth></minWidth>
+        <maxWidth></maxWidth>
+        <allowPlayerEdits>true</allowPlayerEdits>
+        <toolTip></toolTip>
+        <commonMacro>false</commonMacro>
+        <compareGroup>true</compareGroup>
+        <compareSortPrefix>true</compareSortPrefix>
+        <compareCommand>true</compareCommand>
+        <compareIncludeLabel>true</compareIncludeLabel>
+        <compareAutoExecute>true</compareAutoExecute>
+        <compareApplyToSelectedTokens>true</compareApplyToSelectedTokens>
+      </net.rptools.maptool.model.MacroButtonProperties>
+    </macroButtonProperties>
+    <macroButtonLastIndex>42</macroButtonLastIndex>
+    <gmMacroButtonLastIndex>0</gmMacroButtonLastIndex>
+    <gmMacroButtonProperties/>
+  </campaign>
+  <assetMap>
+    <entry>
+      <net.rptools.lib.MD5Key reference="../../../campaign/campaignProperties/tokenStates/entry[3]/net.rptools.maptool.client.ui.token.ImageTokenOverlay/assetId"/>
+      <null/>
+    </entry>
+    <entry>
+      <net.rptools.lib.MD5Key reference="../../../campaign/campaignProperties/tokenStates/entry/net.rptools.maptool.client.ui.token.ImageTokenOverlay/assetId"/>
+      <null/>
+    </entry>
+    <entry>
+      <net.rptools.lib.MD5Key reference="../../../campaign/campaignProperties/tokenStates/entry[2]/net.rptools.maptool.client.ui.token.ImageTokenOverlay/assetId"/>
+      <null/>
+    </entry>
+    <entry>
+      <net.rptools.lib.MD5Key reference="../../../campaign/campaignProperties/tokenStates/entry[4]/net.rptools.maptool.client.ui.token.ImageTokenOverlay/assetId"/>
+      <null/>
+    </entry>
+  </assetMap>
+</net.rptools.maptool.util.PersistenceUtil_-PersistedCampaign>
